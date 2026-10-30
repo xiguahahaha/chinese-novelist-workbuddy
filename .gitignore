@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+node_modules/
+.DS_Store
+Thumbs.db
+
+# Skill 运行产物（小说项目默认生成在用户工作目录，不应进仓库）
+chinese-novelist/
